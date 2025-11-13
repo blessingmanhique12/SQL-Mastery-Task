@@ -149,5 +149,4 @@ If your SQL commands were executed correctly, you should now see:
 * Lucas Kim (Cybersecurity, 81.5)
 
 And your programme report should correctly show the count of students per programme.
-
 ```
